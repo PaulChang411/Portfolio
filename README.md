@@ -1,19 +1,35 @@
 # 📚 My Portfolio
 
+Hi, I'm Paul Chang.  
 Welcome to my portfolio.  
+I am an M.S. student at National Cheng Kung University, with research interests in
+**space communications, error control coding, and digital signal processing**.  
+
+My current M.S. thesis research focuses on **Tail Sequence Design for LDPC Codes
+in Space Communications**.  
 This repository contains selected projects in error control coding,
 signal processing, and communication systems.
 
 ---
 
-## 🚀 Projects
+## 📖 Portfolio Overview
+
+For a concise overview of my academic background, research interests,
+and selected projects:
+
+📄 [View Portfolio Overview](./PoSheng_Portfolio.pdf)
+
+---
+
+## 🚀 Selected Projects
 
 ### 1. LDPC Coding System
 
 **C | LDPC Codes | Error Control Coding**
 
-Implemented a Low-Density Parity-Check (LDPC) coding system in C,
-including modulation, AWGN channel simulation, and iterative decoding.
+Implemented a Low-Density Parity-Check (LDPC) coding system in C.
+The signal is modulated and transmitted through an AWGN channel.
+At the receiver, iterative decoding is performed to recover the original signal.
 
 📄 [View Project Report](./LDPC_Code.pdf)
 
@@ -23,8 +39,8 @@ including modulation, AWGN channel simulation, and iterative decoding.
 
 **C | Convolutional Codes | Viterbi Algorithm**
 
-Implemented a convolutional coding system and evaluated decoding
-performance through simulation.
+Implemented a convolutional coding system in C and evaluated its
+error-correction performance through simulation.
 
 📄 [View Project Report](./Convolutional_Code.pdf)
 
@@ -44,11 +60,11 @@ convergence speed, and tap-weight stability.
 
 ---
 
-### 4. Undergraduate Research Project
+## 🔬 Current Research
 
-**C | MATLAB | Zadoff-Chu Sequences | 5G NR**
+### Tail Sequence Design for LDPC Codes in Space Communications
 
-Performance analysis of non-prime-length Zadoff-Chu sequences
-for communication preamble design.
+My current M.S. thesis research focuses on **tail sequence design for
+LDPC-coded communication systems**, with applications in space communications.
 
-📄 [View Project Report](./PoSheng_Portfolio.pdf)
+> 🚧 Research in progress.
