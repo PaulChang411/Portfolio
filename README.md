@@ -2,7 +2,7 @@
 
 I'm an M.S. student in **Electronics Engineering at National Cheng Kung University (NCKU)**, working in the **SpaceComm Laboratory**.
 
-My interests focus on **wireless communications, digital signal processing, and error control coding**, with hands-on experience in communication-system simulation, algorithm implementation, and embedded systems development.
+My current research focuses on **Tail Sequence Design for LDPC Codes in Space Communications**. I'm particularly interested in **error control coding**, **wireless and space communications**, and **digital signal processing**, with **hands-on experience in communication-system simulation and algorithm implementation**.
 
 ## 🎓 Education
 
