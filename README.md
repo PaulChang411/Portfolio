@@ -4,6 +4,23 @@ I'm an M.S. student in **Electronics Engineering at National Cheng Kung Universi
 
 My interests focus on **wireless communications, digital signal processing, and error control coding**, with hands-on experience in communication-system simulation, algorithm implementation, and embedded systems development.
 
+## 🎓 Education
+
+**National Cheng Kung University (NCKU)**
+M.S. in Electronics Engineering
+*Sep. 2025 – Present*
+
+SpaceComm Laboratory
+Research areas: Signal Processing, Error Control Coding, and Wireless Communications
+
+**National Cheng Kung University (NCKU)**
+B.S. in Engineering Science
+*Sep. 2021 – Jun. 2025*
+
+## 📫 Contact
+
+* Email: **[po920411@gmail.com](mailto:po920411@gmail.com)**
+
 ## 🔬 Research Interests
 
 * Wireless Communications
@@ -75,21 +92,6 @@ Low-level embedded system development using the **8051 microcontroller**.
 
 **Embedded Systems**
 
-`8051 Microcontroller` `Low-Level Programming` `Hardware-Software Integration`
+`8051 Microcontroller`
 
-## 🎓 Education
 
-**National Cheng Kung University (NCKU)**
-M.S. in Electronics Engineering
-*Sep. 2025 – Present*
-
-SpaceComm Laboratory
-Research areas: Signal Processing, Error Control Coding, and Wireless Communications
-
-**National Cheng Kung University (NCKU)**
-B.S. in Engineering Science
-*Sep. 2021 – Jun. 2025*
-
-## 📫 Contact
-
-* Email: **[po920411@gmail.com](mailto:po920411@gmail.com)**
