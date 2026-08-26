@@ -10,8 +10,8 @@ My current research focuses on **Tail Sequence Design for LDPC Codes in Space Co
 M.S. in Electronics Engineering
 *Sep. 2025 – Present*
 
-SpaceComm Laboratory \\
-Research areas: Signal Processing, Error Control Coding, and Wireless Communications
+*SpaceComm Laboratory 
+*Research areas: Signal Processing, Error Control Coding, and Wireless Communications
 
 **National Cheng Kung University (NCKU)**
 B.S. in Engineering Science
