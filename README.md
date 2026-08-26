@@ -1,97 +1,54 @@
-# Hi, I'm Paul Chang 👋
+# 📚 My Portfolio
 
-I'm an M.S. student in **Electronics Engineering at National Cheng Kung University (NCKU)**, working in the **SpaceComm Laboratory**.
-
-My current research focuses on **Tail Sequence Design for LDPC Codes in Space Communications**. I'm particularly interested in **error control coding**, **wireless and space communications**, and **digital signal processing**, with **hands-on experience in communication-system simulation and algorithm implementation**.
-
-## 🎓 Education
-
-**National Cheng Kung University (NCKU)**
-M.S. in Electronics Engineering
-*Sep. 2025 – Present*
-
-SpaceComm Laboratory  
-Research areas: Signal Processing, Error Control Coding, and Wireless Communications
-
-**National Cheng Kung University (NCKU)**
-B.S. in Engineering Science
-*Sep. 2021 – Jun. 2025*
-
-## 📫 Contact
-
-* Email: **[po920411@gmail.com](mailto:po920411@gmail.com)**
-
-## 🔬 Research Interests
-
-* Wireless Communications
-* Digital Signal Processing
-* Error Control Coding
-* Communication System Simulation
-* Embedded Systems
-
-## 🚀 Featured Projects
-
-### 📡 Zadoff–Chu Sequence Preamble Performance Analysis
-
-**C · MATLAB · 5G NR · Signal Processing**
-
-Performance analysis of **prime- and non-prime-length Zadoff–Chu (ZC) sequences** for communication preamble design.
-
-* Developed C-based simulations for ZC sequence preamble detection over **AWGN channels**
-* Evaluated **missed detection probability** across different SNR levels and sequence lengths
-* Performed MATLAB-based performance analysis using a **sliding-correlation detection algorithm**
-* Demonstrated that non-prime ZC sequence lengths can maintain comparable performance when the root index and sequence length are coprime
+Welcome to my portfolio.  
+This repository contains selected projects in error control coding,
+signal processing, and communication systems.
 
 ---
 
-### 🧩 Error Correction Code Simulations
+## 🚀 Projects
 
-**C · LDPC Codes · Convolutional Codes**
+### 1. LDPC Coding System
 
-Implementation and performance evaluation of channel coding algorithms.
+**C | LDPC Codes | Error Control Coding**
 
-* Built end-to-end simulation systems covering **encoding, decoding, and performance evaluation**
-* Implemented simulations for **LDPC and convolutional codes**
-* Improved simulation performance through **memory optimization**
+Implemented a Low-Density Parity-Check (LDPC) coding system in C,
+including modulation, AWGN channel simulation, and iterative decoding.
 
----
-
-### 🔊 NLMS Adaptive Noise Cancellation
-
-**MATLAB · Adaptive Filtering · Digital Signal Processing**
-
-Adaptive noise cancellation using the **Normalized Least Mean Squares (NLMS)** algorithm.
-
-* Implemented an adaptive noise cancellation system in MATLAB
-* Investigated the effects of **filter order and step size**
-* Analyzed **MSE, convergence speed, and tap-weight stability**
-* Evaluated the trade-off between noise reduction performance and computational complexity
+📄 [View Project Report](./LDPC_Code.pdf)
 
 ---
 
-### ⚙️ 8051 Microcontroller & Interface Design
+### 2. Convolutional Coding System
 
-**C · Assembly · 8051 Microcontroller**
+**C | Convolutional Codes | Viterbi Algorithm**
 
-Low-level embedded system development using the **8051 microcontroller**.
+Implemented a convolutional coding system and evaluated decoding
+performance through simulation.
 
-* Developed embedded applications using **C and Assembly**
-* Implemented **I/O control and interrupt handling**
-* Performed hardware peripheral interfacing
-* Gained hands-on experience in **hardware-software integration**
+📄 [View Project Report](./Convolutional_Code.pdf)
 
-## 🛠️ Technical Skills
+---
 
-**Programming Languages**
+### 3. Adaptive Noise Cancellation
 
-`C` `C++` `MATLAB` `Assembly`
+**MATLAB | NLMS | Adaptive Signal Processing**
 
-**Communication & Signal Processing**
+Implemented an adaptive noise cancellation system using the
+Normalized Least Mean Squares (NLMS) algorithm in MATLAB.
 
-`Wireless Communications` `Digital Signal Processing` `Error Control Coding` `5G NR` `LDPC` `Convolutional Codes` `Zadoff-Chu Sequences` `Adaptive Filtering`
+Evaluated the effects of filter order and step size on MSE,
+convergence speed, and tap-weight stability.
 
-**Embedded Systems**
+📄 [View Project Report](./NLMS_Noise_Cancellation.pdf)
 
-`8051 Microcontroller`
+---
 
+### 4. Undergraduate Research Project
 
+**C | MATLAB | Zadoff-Chu Sequences | 5G NR**
+
+Performance analysis of non-prime-length Zadoff-Chu sequences
+for communication preamble design.
+
+📄 [View Project Report](./PoSheng_Portfolio.pdf)
