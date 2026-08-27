@@ -14,8 +14,7 @@ signal processing, and communication systems.
 
 ## 📖 Portfolio Overview
 
-For a concise overview of my academic background, research interests,
-and selected projects:
+For a concise overview of my selected projects:
 
 📄 [View Portfolio Overview](./PoSheng_Portfolio.pdf)
 
