@@ -37,7 +37,7 @@ and used MATLAB for performance evaluation and visualization.
 Investigated how sequence parameters affect the correlation characteristics of
 ZC sequences and evaluated their potential applications in communication systems.
 
-📄 [View Project Report](./Zadoff_Chu_Sequence.pdf)
+📄 [View Project Report](./專題報告書.pdf)
 
 ---
 
