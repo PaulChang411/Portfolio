@@ -1,14 +1,16 @@
 # 📚 My Portfolio
 
 Hi, I'm Paul Chang.  
-Welcome to my portfolio.  
+Welcome to my portfolio.
+
 I am an M.S. student at National Cheng Kung University, with research interests in
-**space communications, error control coding, and digital signal processing**.  
+**space communications, error control coding, and digital signal processing**.
 
 My current M.S. thesis research focuses on **Tail Sequence Design for LDPC Codes
-in Space Communications**.  
-This repository contains selected projects in error control coding,
-signal processing, and communication systems.
+in Space Communications**.
+
+This repository contains selected research and engineering projects in
+communication systems, error control coding, and digital signal processing.
 
 ---
 
@@ -22,7 +24,24 @@ For a concise overview of my selected projects:
 
 ## 🚀 Selected Projects
 
-### 1. LDPC Coding System
+### 1. Performance Analysis of Non-Prime Length Zadoff–Chu Sequences for Preamble Design
+
+**C | MATLAB | Zadoff–Chu Sequences | Wireless Communications**
+
+Conducted an undergraduate research project on the correlation properties of
+**non-prime length Zadoff–Chu (ZC) sequences** for preamble design.
+
+Developed C-based simulations for sequence generation and correlation analysis,
+and used MATLAB for performance evaluation and visualization.
+
+Investigated how sequence parameters affect the correlation characteristics of
+ZC sequences and evaluated their potential applications in communication systems.
+
+📄 [View Project Report](./Zadoff_Chu_Sequence.pdf)
+
+---
+
+### 2. LDPC Coding System
 
 **C | LDPC Codes | Error Control Coding**
 
@@ -34,7 +53,7 @@ At the receiver, iterative decoding is performed to recover the original signal.
 
 ---
 
-### 2. Convolutional Coding System
+### 3. Convolutional Coding System
 
 **C | Convolutional Codes | Viterbi Algorithm**
 
@@ -45,7 +64,7 @@ error-correction performance through simulation.
 
 ---
 
-### 3. Adaptive Noise Cancellation
+### 4. Adaptive Noise Cancellation
 
 **MATLAB | NLMS | Adaptive Signal Processing**
 
@@ -65,5 +84,8 @@ convergence speed, and tap-weight stability.
 
 My current M.S. thesis research focuses on **tail sequence design for
 LDPC-coded communication systems**, with applications in space communications.
+
+The research explores sequence design and signal processing techniques for
+improving communication performance in space communication scenarios.
 
 > 🚧 Research in progress.
